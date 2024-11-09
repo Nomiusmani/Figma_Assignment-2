@@ -1,4 +1,4 @@
-import Cards from "./Components/cards";
+import Cards from "../Components/cards";
 import {Montserrat} from "next/font/google";
 
 export default function Home() {
